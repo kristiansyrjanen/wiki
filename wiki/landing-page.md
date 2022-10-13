@@ -18,7 +18,7 @@ Every contribution is deeply appreciated.
 
 
 ### Discord
-You can join our discord through this link > [discord.fmkc.fi](discord.fmkc.fi)
+You can join our discord through this link > [discord.fmkc.fi](https://www.discord.fmkc.fi)
 
 ## Code of Conduct
 
