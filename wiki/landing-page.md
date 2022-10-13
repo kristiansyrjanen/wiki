@@ -1,3 +1,8 @@
+---
+redirect_from: /
+published: true
+---
+
 ## Welcome to FMKC Wiki
 
 This is a community driven wiki by the Finnish Mechanical Keyboard Community.
