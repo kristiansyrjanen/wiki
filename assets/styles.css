@@ -1,0 +1,13 @@
+#git-wiki-mobile-header {
+ position: fixed;
+ top: 0;
+ height: 55px;
+ background-color: rgb(0, 0, 0);
+ width: 100%;
+/* border-bottom: 1px solid; */
+ border-radius: 10px;
+ z-index: 999;
+}
+button.darkmode-toggle{
+    display: none;
+    }
