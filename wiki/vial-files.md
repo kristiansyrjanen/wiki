@@ -1,0 +1,1 @@
+https://get.vial.today/
